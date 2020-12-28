@@ -1,0 +1,8 @@
+{
+  "/doctor/doctor-login-password/*": {
+    "target": "http://betaapplication.com/docstime/backend/web/index.php/v1",
+    "secure": false,
+    "loglevel": "debug",
+    "changeOrigin": true
+    }
+}
